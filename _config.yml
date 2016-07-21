@@ -1,0 +1,14 @@
+layout_spectrum: 0.5129357767291367
+typography_spectrum: 0.04209951241500676
+color:
+  brandStrength: 0.1860698468517512
+  lightness: 0.775686984648928
+  saturation: 0.5713565901387483
+  rhythmicContrast: 0.6556583750061691
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+name: EBG
